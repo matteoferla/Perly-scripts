@@ -1,0 +1,236 @@
+old details 1
+Acidimicrobium ferrooxidans DSM 10331
+Acidiphilium cryptum JF-5
+Acidithiobacillus ferrooxidans ATCC 53993
+Acidovorax avenae subsp. citrulli AAC00-1
+Acidovorax ebreus TPSY
+Acidovorax sp. JS42
+Actinobacillus succinogenes 130Z
+Actinosynnema mirum DSM 43827
+Akkermansia muciniphila ATCC BAA-835
+Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446
+Alkaliphilus metalliredigens QYMF
+Alkaliphilus oremlandii OhILAs
+Alteromonas macleodii 'Deep ecotype' chromosome
+Anaerocellum thermophilum DSM 6725
+Anaeromyxobacter dehalogenans 2CP-1
+Anaeromyxobacter sp. Fw109-5
+Anaeromyxobacter sp. K
+Arthrobacter aurescens TC1
+Arthrobacter chlorophenolicus A6
+Atopobium parvulum DSM 20469
+Azorhizobium caulinodans ORS 571
+Azotobacter vinelandii DJ chromosome
+Bacillus cereus subsp. cytotoxis NVH 391-98
+Bacillus pumilus SAFR-032
+Beijerinckia indica subsp. indica ATCC 9039
+Beutenbergia cavernae DSM 12333
+Bifidobacterium longum subsp. infantis ATCC 15697
+Brucella melitensis ATCC 23457 chromosome I
+Burkholderia ambifaria MC40-6 chromosome 1
+Burkholderia cenocepacia MC0-3 chromosome 1
+Burkholderia glumae BGR1 chromosome 1
+Burkholderia multivorans ATCC 17616 chromosome 3
+Burkholderia multivorans ATCC 17616 chromosome 3
+Burkholderia phytofirmans PsJN chromosome 1
+Caldicellulosiruptor saccharolyticus DSM 8903
+Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+Candidatus Desulforudis audaxviator MP104C
+Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+Solibacter usitatus Ellin6076
+Capnocytophaga ochracea DSM 7271
+Catenulispora acidiphila DSM 44928
+Caulobacter crescentus NA1000 chromosome
+Caulobacter sp. K31
+Mesorhizobium sp. BNC1
+Chitinophaga pinensis DSM 2588
+Chlorobaculum parvum NCIB 8327
+Chlorobium limicola DSM 245
+Chlorobium phaeobacteroides BS1
+Chlorobium phaeobacteroides DSM 266
+Prosthecochloris vibrioformis DSM 265
+Chloroflexus aggregans DSM 9485
+Chloroflexus aurantiacus J-10-fl
+Chloroflexus sp. Y-400-fl
+Chloroherpeton thalassium ATCC 35110
+Clostridium beijerinckii NCIMB 8052
+Clostridium botulinum A str. ATCC 19397
+Clostridium botulinum A str. ATCC 3502
+Clostridium botulinum A str. Hall
+Clostridium botulinum A2 str. Kyoto
+Clostridium botulinum A3 str. Loch Maree
+Clostridium botulinum B1 str. Okra
+Clostridium botulinum Ba4 str. 657
+Clostridium botulinum F str. Langeland
+Clostridium cellulolyticum H10
+Clostridium difficile 630
+Clostridium phytofermentans ISDg
+Comamonas testosteroni CNB-2
+Cyanothece sp. PCC 7424
+Cyanothece sp. PCC 7425
+Cyanothece sp. PCC 8801
+Cyanothece sp. PCC 8802
+Dehalococcoides sp. BAV1
+Delftia acidovorans SPH-1
+Desulfitobacterium hafniense DCB-2
+Candidatus Desulfococcus oleovorans Hxd3
+Desulfohalobium retbaense DSM 5692
+Desulfomicrobium baculatum DSM 4028
+Desulfotomaculum reducens MI-1
+Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774
+Desulfovibrio salexigens DSM 2638
+Desulfovibrio vulgaris subsp. vulgaris DP4
+Desulfovibrio vulgaris str. 'Miyazaki F'
+Dichelobacter nodosus VCS1703A
+Dickeya dadantii Ech703
+Dickeya zeae Ech1591
+Dictyoglomus turgidum DSM 6724
+Eggerthella lenta DSM 2243
+Elusimicrobium minutum Pei191
+Enterobacter sp. 638
+Escherichia coli BL21-Gold(DE3)pLysS AG chromosome
+Escherichia coli ATCC 8739
+Escherichia coli E24377A
+Escherichia coli HS
+Escherichia coli SMS-3-5
+Eubacterium eligens ATCC 27750
+Eubacterium rectale ATCC 33656
+Exiguobacterium sp. AT1b
+Fervidobacterium nodosum Rt17-B1 chromosome
+Flavobacterium johnsoniae UW101
+Geobacillus sp. WCH70
+Geobacter bemidjiensis Bem
+Geobacter lovleyi SZ
+Geobacter sp. FRC-32
+Geobacter sp. M21
+Geobacter uraniireducens Rf4
+Gluconacetobacter diazotrophicus PAl 5
+Gluconacetobacter diazotrophicus PAl 5
+Gramella forsetii KT0803
+Haemophilus somnus 2336
+Halorhodospira halophila SL1
+Halothermothrix orenii H 168
+Herpetosiphon aurantiacus ATCC 23779
+Hirschia baltica ATCC 49814
+Hydrogenobaculum sp. Y04AAS1
+Hyphomonas neptunium ATCC 15444
+Jonesia denitrificans DSM 20603
+Kangiella koreensis DSM 16069
+Kineococcus radiotolerans SRS30216
+Klebsiella pneumoniae 342
+Kosmotoga olearia TBF 19.5.1
+Lactobacillus reuteri DSM 20016
+Laribacter hongkongensis HLHK9
+Leptothrix cholodnii SP-6
+Leptotrichia buccalis DSM 1135
+Magnetococcus sp. MC-1
+Marinobacter aquaeolei VT8
+Marinomonas sp. MWYL1
+Methylobacterium chloromethanicum CM4
+Methylobacterium extorquens AM1
+Methylobacterium extorquens DM4
+Methylobacterium extorquens PA1
+Methylobacterium nodulans ORS 2060
+Methylobacterium populi BJ001
+Methylobacterium radiotolerans JCM 2831
+Methylobacterium sp. 4-46
+Methylocella silvestris BL2 chromosome
+Methylotenera mobilis JLW8
+Methylovorus sp. SIP3-4
+Mycobacterium sp. JLS
+Mycoplasma arthritidis 158L3-1
+Myxococcus xanthus DK 1622 chromosome
+Nakamurella multipartita DSM 44233
+Nocardioides sp. JS614
+Nostoc punctiforme PCC 73102
+Opitutus terrae PB90-1
+Paenibacillus sp. JDR-2
+Parvibaculum lavamentivorans DS-1
+Erwinia carotovora subsp. atroseptica SCRI1043
+Pectobacterium carotovorum subsp. carotovorum PC1
+Pedobacter heparinus DSM 2366
+Pelobacter propionicus DSM 2379
+Pelodictyon phaeoclathratiforme BU-1
+Petrotoga mobilis SJ95
+Polaromonas naphthalenivorans CJ2
+Polaromonas sp. JS666
+Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1
+Prochlorococcus marinus str. MIT 9313 chromosome
+Prosthecochloris aestuarii DSM 271
+Pseudomonas fluorescens Pf-5
+Pseudomonas fluorescens Pf0-1
+Pseudomonas mendocina ymp
+Pseudomonas putida F1
+Pseudomonas putida GB-1
+Pseudomonas putida KT2440 chromosome
+Pseudomonas putida W619
+Pseudomonas syringae pv. phaseolicola 1448A
+Pseudomonas syringae pv. syringae B728a
+Psychrobacter cryohalolentis K5
+Psychrobacter sp. PRwf-1
+Psychromonas ingrahamii 37
+Ralstonia pickettii 12D chromosome 1
+Rhizobium etli CIAT 652
+Rhizobium leguminosarum bv. trifolii WSM1325
+Rhizobium leguminosarum bv. trifolii WSM2304
+Rhizobium sp. NGR234
+Rhodobacter sphaeroides ATCC 17025 chromosome
+Rhodoferax ferrireducens T118
+Rhodopseudomonas palustris BisB18
+Rhodopseudomonas palustris BisB5
+Rhodopseudomonas palustris HaA2
+Rhodopseudomonas palustris TIE-1
+Rhodospirillum rubrum ATCC 11170
+Rickettsia akari str. Hartford
+Rickettsia canadensis str. McKiel
+Roseiflexus castenholzii DSM 13941
+Roseiflexus sp. RS-1
+Ruegeria pomeroyi DSS-3 chromosome
+Ruegeria sp. TM1040
+Saccharophagus degradans 2-40
+Salinispora arenicola CNS-205
+Salinispora tropica CNB-440
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476
+Salmonella enterica subsp. enterica serovar Newport str. SL254
+Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633
+Serratia proteamaculans 568
+Shewanella baltica OS155
+Shewanella baltica OS185
+Shewanella baltica OS195
+Shewanella baltica OS223 chromosome
+Shewanella halifaxensis HAW-EB4
+Shewanella loihica PV-4
+Shewanella pealeana ATCC 700345
+Shewanella putrefaciens CN-32
+Shewanella sediminis HAW-EB3
+Shewanella sp. W3-18-1
+Shigella boydii CDC 3083-94
+Sinorhizobium medicae WSM419
+Sphingomonas wittichii RW1
+Spirochaeta smaragdinae DSM 11293 chromosome
+Staphylococcus aureus subsp. aureus JH1
+Staphylococcus aureus subsp. aureus JH9
+Stenotrophomonas maltophilia R551-3
+Streptococcus equi subsp. zooepidemicus MGCS10565
+Sulfurihydrogenibium sp. YO3AOP1
+Symbiobacterium thermophilum IAM 14863
+Syntrophobacter fumaroxidans MPOB
+Syntrophus aciditrophicus SB chromosome
+Thauera sp. MZ1T
+Thermoanaerobacter pseudethanolicus ATCC 33223
+Thermoanaerobacter sp. X514
+Thermococcus sibiricus MM 739
+Thermomicrobium roseum DSM 5159
+Thermosipho melanesiensis BI429
+Thermotoga lettingae TMO
+Thermotoga neapolitana DSM 4359
+Thermotoga petrophila RKU-1
+Thermotoga sp. RQ2
+Thioalkalivibrio sp. HL-EbGR7
+Tolumonas auensis DSM 9187
+Variovorax paradoxus S110 chromosome 1
+Verminephrobacter eiseniae EF01-2
+Xanthobacter autotrophicus Py2
+Xylella fastidiosa M23
+Yersinia pseudotuberculosis YPIII chromosome
+Zymomonas mobilis subsp. mobilis ZM4 chromosome
